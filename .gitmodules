@@ -1,0 +1,3 @@
+[submodule "www/taghunter"]
+	path = www/taghunter
+	url = https://github.com/TagHunterAdmin/taghunter.git
